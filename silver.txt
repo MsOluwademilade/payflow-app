@@ -1,0 +1,5 @@
+My name is Silver, I am a junior DevOps Engineer at 10Alytics
+Our facilitator of the course is Oluwademilade, and
+Today we are treating Git and GitHub for CI/CD.
+
+Please stay tuned for more updates.
