@@ -1,0 +1,2 @@
+My name is Silver, I am a junior DevOps Engineer at 10Alytics
+Today we are treating Git and GitHub for CI/CD.
